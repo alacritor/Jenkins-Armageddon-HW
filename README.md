@@ -13,9 +13,7 @@ The goal of this lab is to prove readiness to continue in the advanced Class 7 D
 - Screenshot evidence showing successful execution and validation
 - A direct reference to the original Armageddon lab repository
 
-## Repository Structure ##
 
-![[Pasted image 20260326205238.png]]
 ## What This Project Contains
 
 ### 1. Armageddon proof
